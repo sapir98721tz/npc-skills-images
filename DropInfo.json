@@ -653880,6 +653880,7 @@
 			"use_item_name": "Easter Egg",
 			"loot_item_name": "Fame Booster",
 			"drop_item_id": 400001,
+			"item_level": -1,
 			"drop_percentage": 20,
 			"is_loot_bucket": 0,
 			"event_loot": 0
@@ -653889,6 +653890,7 @@
 			"use_item_name": "Easter Egg",
 			"loot_item_name": "Elua's Blessing Stone",
 			"drop_item_id": 222003,
+			"item_level": 1,
 			"drop_percentage": 5,
 			"is_loot_bucket": 0,
 			"event_loot": 0
@@ -653898,6 +653900,7 @@
 			"use_item_name": "Easter Egg",
 			"loot_item_name": "Summon Random Boss (1)",
 			"drop_item_id": 220311,
+			"item_level": -1,
 			"drop_percentage": 20,
 			"is_loot_bucket": 0,
 			"event_loot": 0
@@ -653907,6 +653910,7 @@
 			"use_item_name": "Easter Egg",
 			"loot_item_name": "Summon Random Boss (2)",
 			"drop_item_id": 220312,
+			"item_level": -1,
 			"drop_percentage": 20,
 			"is_loot_bucket": 0,
 			"event_loot": 0
@@ -653916,6 +653920,7 @@
 			"use_item_name": "Easter Egg",
 			"loot_item_name": "Fame Booster",
 			"drop_item_id": 400002,
+			"item_level": -1,
 			"drop_percentage": 5,
 			"is_loot_bucket": 0,
 			"event_loot": 0
@@ -653925,6 +653930,7 @@
 			"use_item_name": "Easter Egg",
 			"loot_item_name": "Brown Bunny Ears",
 			"drop_item_id": 400021,
+			"item_level": 1,
 			"drop_percentage": 20,
 			"is_loot_bucket": 0,
 			"event_loot": 0
@@ -653934,6 +653940,7 @@
 			"use_item_name": "Easter Egg",
 			"loot_item_name": "Gray Bunny Ears",
 			"drop_item_id": 400022,
+			"item_level": 1,
 			"drop_percentage": 5,
 			"is_loot_bucket": 0,
 			"event_loot": 0
@@ -653943,6 +653950,7 @@
 			"use_item_name": "Easter Egg",
 			"loot_item_name": "Light Bunny Ears",
 			"drop_item_id": 400023,
+			"item_level": 1,
 			"drop_percentage": 4,
 			"is_loot_bucket": 0,
 			"event_loot": 0
@@ -653952,6 +653960,7 @@
 			"use_item_name": "Easter Egg",
 			"loot_item_name": "Pink Bunny Ears",
 			"drop_item_id": 400024,
+			"item_level": 1,
 			"drop_percentage": 1,
 			"is_loot_bucket": 0,
 			"event_loot": 0
