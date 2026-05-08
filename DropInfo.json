@@ -713318,7 +713318,7 @@
 			"is_loot_bucket": 1,
 			"event_loot": 0
 		},
-				{
+		{
 			"effect_id": 1600,
 			"use_item_name": "Easter Egg",
 			"loot_item_name": "Fame Booster",
